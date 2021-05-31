@@ -6,10 +6,7 @@ function App() {
 
 
     <div className="App">
-      <h1>Hi THERE!! Spotify Coming Up!!</h1>
-
-
-      
+            
       <Login/>
 
     </div>
